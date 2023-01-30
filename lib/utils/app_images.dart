@@ -30,4 +30,5 @@ abstract class AppImages {
   static String get galleryImageFifth => _assetPath + 'seventh.jpeg';
   static String get galleryImageSixth => _assetPath + 'sixth.jpeg';
   static String get galleryImageSeventh => _assetPath + 'third.jpeg';
+  static String get options => _assetPath + 'options.png';
 }
